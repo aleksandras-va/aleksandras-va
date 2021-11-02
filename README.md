@@ -1,6 +1,6 @@
 # Hi, Aleksandras here 🙋‍♂️
 
-I’m a front-end developer at Nord Security and a lecturer at Vilnius Coding School, combining my two passions - coding and teaching.
+I’m a front-end engineer at Nord Security and a lecturer at Vilnius Coding School, combining my two passions - coding and teaching.
 
 Other passions may include ✈️ 🏍 🛶
 
